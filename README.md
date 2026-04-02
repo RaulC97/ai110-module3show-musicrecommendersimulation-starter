@@ -23,9 +23,14 @@ Some prompts to answer:
 
 - What features does each `Song` use in your system
   - For example: genre, mood, energy, tempo
+    - My system uses genre, mood, valence, energy, danceability and acousticness. Genre and Mood have higher weights making up .65 , while danceability and acousticness have lower weights
 - What information does your `UserProfile` store
+  - Currently UserProfile stores favorites in genre, mood, energy, and liking acoustic.
 - How does your `Recommender` compute a score for each song
+  - Current Recommender will set the weights for as follows: .35 genre, .30 mood, .12 valence, .10 energy, .08 danceability, .05 acousticness.
 - How do you choose which songs to recommend
+  - Large based on genre and mood. If the genre and or mood is a match, chances are the song is a match to the
+  user.
 
 You can include a simple diagram or bullet list if helpful.
 
