@@ -34,7 +34,10 @@ Some prompts to answer:
 
 You can include a simple diagram or bullet list if helpful.
 
+<img width="1693" height="822" alt="Screenshot 2026-04-13 205019" src="https://github.com/user-attachments/assets/859050d2-4d73-4cec-81f1-79bcf9f06c0e" />
 
+
+<img width="406" height="681" alt="Screenshot 2026-04-13 210444" src="https://github.com/user-attachments/assets/606f5673-8e36-4bfa-8d8a-361d3542ad9e" />
 
 ---
 
